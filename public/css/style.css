@@ -44,7 +44,7 @@ p{
     font-weight: 200;
     color: #00204a;
 }
-form{
+form.item{
     text-align: center;
     margin-left: 20px;
 }
@@ -53,7 +53,7 @@ button{
     width: 50px;
     border-radius: 50%;
     border-color: transparent;
-    color: #fff;
+    color:plum;
     font-size: 30px;
     padding-bottom: 6px;
     border-width: 0px;
