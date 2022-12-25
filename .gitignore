@@ -2,3 +2,4 @@
 npm-debug.log
 .Ds_Store
 /*.env
+package-lock.json
